@@ -1,7 +1,7 @@
 
 
 # PROJECT TITLE
-# ALL IN ONE COVID-19 PORTAL
+# ALL IN ONE COVID PORTAL
 
 🏥 eCocid_Clinc
 
